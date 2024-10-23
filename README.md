@@ -6,21 +6,41 @@ Soy un **programador junior** de Colombia, apasionado por la **tecnología** y e
 
 ## 🔧 Tecnologías y herramientas
 
-### 🌐 Lenguajes de programación
-- **Python**
-- **JavaScript**
-- **HTML/CSS**
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-### ⚙️ Frameworks
-- **Django**
-- **Bootstrap**
+  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
+    <h3>🌐 Lenguajes de programación</h3>
+    <ul>
+      <li><strong>Python</strong></li>
+      <li><strong>JavaScript</strong></li>
+      <li><strong>HTML/CSS</strong></li>
+    </ul>
+  </div>
 
-### 🗄️ Bases de datos
-- **MySQL**
+  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
+    <h3>⚙️ Frameworks</h3>
+    <ul>
+      <li><strong>Django</strong></li>
+      <li><strong>Bootstrap</strong></li>
+    </ul>
+  </div>
 
-### 🎮 Intereses
-- Desarrollo web
-- Programación de videojuegos
+  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
+    <h3>🗄️ Bases de datos</h3>
+    <ul>
+      <li><strong>MySQL</strong></li>
+    </ul>
+  </div>
+
+  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
+    <h3>🎮 Intereses</h3>
+    <ul>
+      <li>Desarrollo web</li>
+      <li>Programación de videojuegos</li>
+    </ul>
+  </div>
+  
+</div>
 
 ---
 
@@ -32,14 +52,15 @@ Además de programar, disfruto **tocar la guitarra** 🎸 y **jugar al baloncest
 
 ## 📫 Conéctate conmigo
 
-- [GitHub](https://github.com/Jhojan)
-- [JOMB](https://jhojansweetheart.github.io/JOMB/)
+<ul>
+  <li><a href="https://github.com/Jhojan" target="_blank">GitHub</a></li>
+  <li><a href="https://jhojansweetheart.github.io/JOMB/" target="_blank">JOMB</a></li>
+</ul>
 
 ---
 
 ## 🌟 Proyectos destacados
 
-
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊
+<p style="font-size: 16px; color: #555;">¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊</p>
