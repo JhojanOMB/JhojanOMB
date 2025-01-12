@@ -1,6 +1,6 @@
 # Hola, soy Jhojan 👋
 
-Soy un **programador junior** de Colombia, apasionado por la **tecnología** y el **desarrollo de software**. Me encanta crear proyectos interesantes y aprender nuevas habilidades en el camino. 🚀
+Soy un **programador** de Colombia, apasionado por la **tecnología** y el **desarrollo de software**. Me encanta crear proyectos interesantes y aprender nuevas habilidades en el camino. 🚀
 
 ---
 
