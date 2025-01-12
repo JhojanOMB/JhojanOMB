@@ -6,41 +6,26 @@ Soy un **programador** de Colombia, apasionado por la **tecnología** y el **des
 
 ## 🔧 Tecnologías y herramientas
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+### 🌐 Lenguajes de programación
 
-  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
-    <h3>🌐 Lenguajes de programación</h3>
-    <ul>
-      <li><strong>Python</strong></li>
-      <li><strong>JavaScript</strong></li>
-      <li><strong>HTML/CSS</strong></li>
-    </ul>
-  </div>
+- **Python**
+- **JavaScript**
+- **HTML/CSS**
 
-  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
-    <h3>⚙️ Frameworks</h3>
-    <ul>
-      <li><strong>Django</strong></li>
-      <li><strong>Bootstrap</strong></li>
-    </ul>
-  </div>
+### ⚙️ Frameworks
 
-  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
-    <h3>🗄️ Bases de datos</h3>
-    <ul>
-      <li><strong>MySQL</strong></li>
-    </ul>
-  </div>
+- **Django**
+- **Bootstrap**
 
-  <div style="padding: 15px; border-radius: 8px; background-color: #f0f8ff; border: 1px solid #007bff;">
-    <h3>🎮 Intereses</h3>
-    <ul>
-      <li>Desarrollo web</li>
-      <li>Programación de videojuegos</li>
-    </ul>
-  </div>
-  
-</div>
+### 🗄️ Bases de datos
+
+- **SQLite**
+- **MySQL**
+
+### 🎮 Intereses
+
+- Desarrollo web
+- Programación de videojuegos
 
 ---
 
@@ -50,17 +35,26 @@ Además de programar, disfruto **tocar la guitarra** 🎸 y **jugar al baloncest
 
 ---
 
-## 📫 Conéctate conmigo
-
-<ul>
-  <li><a href="[https://github.com/Jhojan](https://github.com/JhojanOMB)" target="_blank">GitHub</a></li>
-  <li><a href="[https://jhojansweetheart.github.io/JOMB/](https://jhojanomb.github.io/JOMB/)" target="_blank">JOMB</a></li>
-</ul>
-
----
-
 ## 🌟 Proyectos destacados
 
+### **HorarioTimer**
+
+Un gestor de horarios de trabajo que te permite llevar un seguimiento del tiempo trabajado y visualizar resúmenes de tus sesiones.
+
+- 🌐 **Demo:** [HorarioTimer](https://horariotimer-production.up.railway.app/)
+- 🚀 **Tecnologías usadas:** Python, Django, Bootstrap
+
+### **JOMB**
+
+Mi portafolio personal donde presento mis proyectos y habilidades.
+
+- 🌐 **Visítalo aquí:** [JOMB](https://jhojanomb.github.io/JOMB/)
+
 ---
 
-<p style="font-size: 16px; color: #555;">¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊</p>
+## 📫 Conéctate conmigo
+
+- **[GitHub](https://github.com/JhojanOMB)**
+- **[JOMB - Mi portafolio](https://jhojanomb.github.io/JOMB/)**
+
+---
