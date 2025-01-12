@@ -53,8 +53,8 @@ Además de programar, disfruto **tocar la guitarra** 🎸 y **jugar al baloncest
 ## 📫 Conéctate conmigo
 
 <ul>
-  <li><a href="https://github.com/Jhojan" target="_blank">GitHub</a></li>
-  <li><a href="https://jhojansweetheart.github.io/JOMB/" target="_blank">JOMB</a></li>
+  <li><a href="[https://github.com/Jhojan](https://github.com/JhojanOMB)" target="_blank">GitHub</a></li>
+  <li><a href="[https://jhojansweetheart.github.io/JOMB/](https://jhojanomb.github.io/JOMB/)" target="_blank">JOMB</a></li>
 </ul>
 
 ---
