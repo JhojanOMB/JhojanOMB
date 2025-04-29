@@ -22,16 +22,16 @@ Soy un **programador** de Colombia, apasionado por la **tecnología** y el **des
 - **SQLite**
 - **MySQL**
 
-### 🎮 Intereses
+### 🤩 Intereses
 
 - Desarrollo web
 - Programación de videojuegos
 
 ---
 
-## 🎵 Aficiones
+## 👾 Hobbies
 
-Además de programar, disfruto **tocar la guitarra** 🎸 y **jugar al baloncesto** 🏀. Siempre busco un equilibrio entre la tecnología y mis pasiones.
+Además de programar, disfruto **tocar la guitarra y hacer canciones** 🎸 y sin olvidar **al baloncesto** 🏀. Siempre busco estar relajado para brindar lo mejor de mi.
 
 ---
 
@@ -48,13 +48,13 @@ Un gestor de horarios de trabajo que te permite llevar un seguimiento del tiempo
 
 Mi portafolio personal donde presento mis proyectos y habilidades.
 
-- 🌐 **Visítalo aquí:** [JOMB](https://jhojanomb.github.io/JOMB/)
+- 🌐 **Visítalo aquí:** [JOMB]([https://jhojanomb.github.io/JOMB/](https://jomb-production.up.railway.app/portafolio/))
 
 ---
 
 ## 📫 Conéctate conmigo
 
 - **[GitHub](https://github.com/JhojanOMB)**
-- **[JOMB - Mi portafolio](https://jhojanomb.github.io/JOMB/)**
+- **[JOMB - Mi Web]([[https://jhojanomb.github.io/JOMB/](https://jomb-production.up.railway.app/portafolio/](https://jomb-production.up.railway.app/)))**
 
 ---
