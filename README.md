@@ -35,8 +35,8 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta crea
   👉 Demo: [horariotimer-production.up.railway.app](https://horariotimer-production.up.railway.app/)
 
 - 🌐 **JOMB**  
-  Portafolio personal donde presento proyectos y habilidades.  
-  👉 Sitio: [jomb-production.up.railway.app](https://jomb-production.up.railway.app/)
+  Portafolio donde presento proyectos y habilidades.  
+  👉 Sitio: [JOMB web](https://jhojanomb.github.io/JOMB/)
 
 ---
 
