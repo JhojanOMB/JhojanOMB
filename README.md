@@ -30,10 +30,6 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta crea
 
 ## 🌟 Proyectos destacados
 
-- 🕒 **HorarioTimer**  
-  Gestor de horarios de trabajo con seguimiento de tiempo y gráficos de resumen.  
-  👉 Demo: [horariotimer-production.up.railway.app](https://horariotimer-production.up.railway.app/)
-
 - 🌐 **JOMB**  
   Portafolio donde presento proyectos y habilidades.  
   👉 Sitio: [JOMB web](https://jhojanomb.github.io/JOMB/)
